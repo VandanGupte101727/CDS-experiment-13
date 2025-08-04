@@ -1,8 +1,7 @@
-# CDS-experiment-13
+# Constructor Overloading in C++
 
-AIM:- To study and implement constructor overloading<br>
 
-Theory:-<br>
+Overview :-<br>
 In C++, constructor overloading enables a class to have many constructors with varying parameter counts or types. This allows different initialization methods for objects of the same class depending on the arguments sent in. Because each overloaded constructor handles a certain initialization, the class is more adaptive and flexible. To set particular member variables, some constructors may require one or more parameters, whereas the default constructor accepts none at all. The arguments handed in during object creation are used by the compiler to decide which constructor to invoke. Constructor overloading allows for several initialization methods while maintaining a clean implementation, which improves readability and reusability of code.<br>
 
 CODE:-<br>
